@@ -8,6 +8,8 @@ Pastas: `marca/`, `embeds/`, `posts/` e `motions/`.
 
 ## marca
 
+- [logo_lua.png](https://raw.githubusercontent.com/Lotus9024/eclipsebuxx-midias/main/marca/logo_lua.png)
+
 ## embeds
 
 ## posts
